@@ -17,6 +17,6 @@
     "url": "git://github.com/creativeIKEP/PackageManagerTest.git"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
+    "registry":"https://npm.pkg.github.com/@jp.ikep.package-manager-test"
   }
 }
