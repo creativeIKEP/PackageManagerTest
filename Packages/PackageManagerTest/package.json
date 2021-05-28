@@ -12,7 +12,10 @@
   "keywords": [
     "unity"
   ],
-  "repository": "github:creativeIKEP/PackageManagerTest",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/creativeIKEP/PackageManagerTest.git"
+  },
   "publishConfig": {
     "registry":"https://npm.pkg.github.com/"
   }
